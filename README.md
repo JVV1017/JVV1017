@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Jose Varghsee Vettikad and I'm a Student, studying Bachelor of Computer Science (Honours)</h1>
+<h1 align="left">Hi 👋! My name is Jose Varghese Vettikad and I'm a Student, studying Bachelor of Computer Science (Honours)</h1>
 
 ###
 
