@@ -17,6 +17,8 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="30" alt="archlinux logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
